@@ -30,5 +30,5 @@
 
 [[main]]
   name = "Contato"
-  url = "contact"
+  url = "contato"
   weight = 60
