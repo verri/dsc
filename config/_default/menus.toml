@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Competições"
-  url = "competicoes"
+  name = "Edições"
+  url = "edicoes"
   weight = 40
 
 [[main]]

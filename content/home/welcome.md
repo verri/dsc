@@ -12,10 +12,15 @@ hero_media: logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+cta:
+  url: '/edicoes/2021'
+  label: Veja a edição atual
+  icon_pack: fas
+  icon: envelope
 advanced:
   css_style:
   css_class:
 ---
 
-O DSC @ ITA é a competição de ciência de dados do Instituto
+O DSC é a competição de ciência de dados do Instituto
 Tecnológico de Aeronáutica.

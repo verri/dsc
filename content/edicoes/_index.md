@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Edições
 
 # View.
 #   1 = List
