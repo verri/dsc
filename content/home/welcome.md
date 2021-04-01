@@ -17,5 +17,5 @@ advanced:
   css_class:
 ---
 
-O Data Science Challenge @ ITA é a competição de ciência de dados do Instituto
+O DSC @ ITA é a competição de ciência de dados do Instituto
 Tecnológico de Aeronáutica.
