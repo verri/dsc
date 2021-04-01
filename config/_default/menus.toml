@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Pessoas"
-  url = "people"
+  url = "pessoas"
   weight = 30
 
 [[main]]
