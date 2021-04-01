@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Notícias"
-  url = "post"
+  url = "noticias"
   weight = 20
 
 [[main]]
@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Competições"
-  url = "event"
+  url = "competicoes"
   weight = 40
 
 [[main]]
