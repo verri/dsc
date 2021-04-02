@@ -14,7 +14,7 @@ design:
   columns: '1'
 cta:
   url: '/edicoes/2021'
-  label: Veja a edição atual
+  label: Acompanhe a edição atual
   icon_pack: fas
   icon: rocket
 advanced:

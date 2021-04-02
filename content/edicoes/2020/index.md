@@ -1,5 +1,6 @@
 ---
 title: DSC @ ITA 2020
+draft: true
 
 event: Wowchemy Conference
 event_url: https://example.org

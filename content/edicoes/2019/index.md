@@ -1,5 +1,6 @@
 ---
 title: DSC @ EEF 2019
+draft: true
 
 event: Wowchemy Conference
 event_url: https://example.org

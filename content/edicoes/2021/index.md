@@ -1,19 +1,10 @@
 ---
 title: DSC @ ITA 2021
 
-event: Wowchemy Conference
-event_url: https://example.org
-
 location: Instituto Tecnológico de Aeronáutica
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
 summary: Terceira edição do evento.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,11 +19,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**EEF**](https://www.eef.ita.br/)'
-  focal_point: Right
+featured: true
 
 url_code: ""
 url_pdf: ""
@@ -54,5 +41,8 @@ slides:
 projects:
 ---
 
-Este evento ocorreu em
+{{% callout note %}}
+Este evento iniciará em breve.
+{{% /callout %}}
 
+Informações aos competidores estarão disponíveis nesta página.

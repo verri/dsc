@@ -20,5 +20,5 @@ content:
   page_type: edicoes
 design:
   view: 3
-  columns: "1"
+  columns: "2"
 ---
