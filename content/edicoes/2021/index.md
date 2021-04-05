@@ -21,6 +21,10 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
+image:
+  caption: 'Apoio: [ITAEx](https://itaex.com.br/), [Nuveo](https://www.nuveo.ai/), [DroneComp](https://www.drone-comp.ita.br/)'
+  focal_point: Right
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -40,9 +44,40 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
 {{% callout note %}}
-Este evento iniciará em breve.
+Novas informações aos competidores serão incluídas nesta página.
 {{% /callout %}}
 
-Informações aos competidores estarão disponíveis nesta página.
+Conheça nossos apoiadores:
+
+- [ITAEx](https://itaex.com.br/)
+- [Nuveo](https://www.nuveo.ai/)
+- [DroneComp](https://www.drone-comp.ita.br/)
+
+Siga-nos e também acompanhe novidades em:
+
+- [Facebook](https://www.facebook.com/dsc.at.ita)
+- [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
+
+# Aquecimento
+
+Antes da abertura oficial do evento, aproveite para acessar o nosso aquecimento:
+
+- Os dados estão disponíveis no [Kaggle](https://www.kaggle.com/c/data-science-challenge-at-ita-2021-warm-up).
+- Assista as gravações dos encontros [aqui](https://drive.google.com/drive/folders/1bDnA_Q7W44kf-_MoVsxhRIbLreryqNuY?usp=sharing).
+- Participe ao vivo todas as terças-feiras às 16:00 pelo [Google Meet](https://meet.google.com/zgz-rmmp-htb).
+
+
+# Datas importantes
+
+- 19/04 -- Abertura das inscrições e início da primeira fase
+- 20/04 às 16:00 -- Abertura oficial via Google Meet
+- 17/05 -- Encerramento da primeira fase
+- 24/05 -- Início da segunda fase
+- 29/05 às 9:00 -- Encerramento via Google Meet e transmitido pelo Facebook
+
+Horários em UTC-3 (horário de Brasília).
+
+# Inscrição
+
+Em breve.
