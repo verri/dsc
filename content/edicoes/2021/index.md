@@ -1,7 +1,6 @@
 ---
-title: DSC @ ITA 2021
-
-location: Instituto Tecnológico de Aeronáutica
+title: Data Science Challenge @ ITA 2021
+subtitle: Instituto Tecnológico de Aeronáutica (ITA) | INSCRIÇÕES ABERTAS
 
 summary: Terceira edição do evento.
 abstract: ""
@@ -44,15 +43,10 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-{{% callout note %}}
-Novas informações aos competidores serão incluídas nesta página.
+
+{{% callout warning %}}
+Inscreva-se <a href="https://forms.gle/a5UBZZXzPDNYEr4q7" target="_blank">aqui</a>.
 {{% /callout %}}
-
-Conheça nossos apoiadores:
-
-- [ITAEx](https://itaex.com.br/)
-- [Nuveo](https://www.nuveo.ai/)
-- [DroneComp](https://www.drone-comp.ita.br/)
 
 Siga-nos e também acompanhe novidades em:
 
@@ -83,3 +77,11 @@ Antes da abertura oficial do evento, aproveite para acessar o nosso aquecimento:
 Preencha o [formulário](https://forms.gle/a5UBZZXzPDNYEr4q7) e aguarde a validação da coordenação do evento.
 
 Atente-se ao [regulamento](http://www.comp.ita.br/~verri/dsc/edicoes/2021/regulamento.pdf).
+
+# Apoio
+
+Conheça nossos apoiadores:
+
+- [ITAEx](https://itaex.com.br/)
+- [Nuveo](https://www.nuveo.ai/)
+- [DroneComp](https://www.drone-comp.ita.br/)
