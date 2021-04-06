@@ -59,6 +59,17 @@ Siga-nos e também acompanhe novidades em:
 - [Facebook](https://www.facebook.com/dsc.at.ita)
 - [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
 
+# Datas importantes
+
+- 19/04 -- Abertura das inscrições e início da primeira fase
+- 20/04 às 16:00 -- Abertura oficial via Google Meet
+- 27/04 às 16:00 -- Apresentação do grupo de pesquisa [DroneComp](https://www.drone-comp.ita.br/)
+- 17/05 -- Encerramento da primeira fase
+- 24/05 -- Início da segunda fase
+- 29/05 às 9:00 -- Encerramento via Google Meet e transmitido pelo Facebook
+
+Horários em UTC-3 (horário de Brasília).
+
 # Aquecimento
 
 Antes da abertura oficial do evento, aproveite para acessar o nosso aquecimento:
@@ -67,16 +78,6 @@ Antes da abertura oficial do evento, aproveite para acessar o nosso aquecimento:
 - Assista as gravações dos encontros [aqui](https://drive.google.com/drive/folders/1bDnA_Q7W44kf-_MoVsxhRIbLreryqNuY?usp=sharing).
 - Participe ao vivo todas as terças-feiras às 16:00 pelo [Google Meet](https://meet.google.com/zgz-rmmp-htb).
 
-
-# Datas importantes
-
-- 19/04 -- Abertura das inscrições e início da primeira fase
-- 20/04 às 16:00 -- Abertura oficial via Google Meet
-- 17/05 -- Encerramento da primeira fase
-- 24/05 -- Início da segunda fase
-- 29/05 às 9:00 -- Encerramento via Google Meet e transmitido pelo Facebook
-
-Horários em UTC-3 (horário de Brasília).
 
 # Inscrição
 
