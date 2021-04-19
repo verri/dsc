@@ -46,23 +46,27 @@ projects:
 
 {{% callout warning %}}
 Inscreva-se <a href="https://forms.gle/a5UBZZXzPDNYEr4q7" target="_blank">aqui</a>.
+Para dúvidas, consulte [o FAQ](#faq).
 {{% /callout %}}
-
-Siga-nos e também acompanhe novidades em:
-
-- [Facebook](https://www.facebook.com/dsc.at.ita)
-- [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
 
 # Datas importantes
 
 - 19/04 -- Início da primeira fase
 - 20/04 às 16:00 -- Abertura oficial via Google Meet
 - 27/04 às 16:00 -- Apresentação do grupo de pesquisa [DroneComp](https://www.drone-comp.ita.br/)
+- 10/05 -- Data limite das inscrições
 - 17/05 -- Encerramento da primeira fase
 - 24/05 -- Início da segunda fase
 - 29/05 às 9:00 -- Encerramento via Google Meet e transmitido pelo Facebook
 
 Horários em UTC-3 (horário de Brasília).
+
+# Fase 1
+
+Dados:
+
+- [Treinamento](http://www.comp.ita.br/~verri/dsc/edicoes/2021/public-train.csv)
+- [Teste](http://www.comp.ita.br/~verri/dsc/edicoes/2021/public-test.csv)
 
 # Aquecimento
 
@@ -78,6 +82,10 @@ Preencha o [formulário](https://forms.gle/a5UBZZXzPDNYEr4q7) e aguarde a valida
 
 Atente-se ao [regulamento](http://www.comp.ita.br/~verri/dsc/edicoes/2021/regulamento.pdf).
 
+# FAQ
+
+1. Até quando posso me inscrever?<br>Você pode se inscrever até o dia 10/05. Enquanto isso, você pode ir se adiantando: analise os dados, forme sua equipe, prepare seus modelos, etc.
+
 # Apoio
 
 Conheça nossos apoiadores:
@@ -85,3 +93,10 @@ Conheça nossos apoiadores:
 - [ITAEx](https://itaex.com.br/)
 - [Nuveo](https://www.nuveo.ai/)
 - [DroneComp](https://www.drone-comp.ita.br/)
+
+# Social
+
+Siga-nos e também acompanhe novidades em:
+
+- [Facebook](https://www.facebook.com/dsc.at.ita)
+- [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
