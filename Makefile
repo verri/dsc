@@ -1,3 +1,3 @@
 all:
 	hugo
-	rsync -avzhe 'ssh -p 2222' --delete public/ verri@dominios.ita.br:public_html/dsc/
+	rsync -avzhe 'ssh -p 2222' --delete public/ wmiec@dominios.ita.br:site/htdocs/dsc/
