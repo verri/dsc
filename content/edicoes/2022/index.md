@@ -60,17 +60,17 @@ Os competidores devem ser alunos matriculados em algum curso de graduação ou p
 
 Como tradicionalmente, o desafio será dividido em Fase 1 e Fase 2.
 
-A Fase 1 será constituída por um problema de predição a ser divulgado na abertura do evento. Neste fase eliminatória, apenas 5 equipes serão classificadas.
+A Fase 1 será constituída por um problema de predição a ser divulgado na abertura do evento. Nesta fase eliminatória, apenas 5 equipes serão classificadas.
 
 Já na Fase 2, um novo desafio será proposto e as equipes classificadas deverão apresentar, dia 25/11, uma prova de conceito e seus resultados preliminares.
 
 ## Premiação
 
-Os três primeiros colocados da Fase 2 receberão as seguintes premiações:
+No final da Fase 2, cada membro dos primeiros três times receberão as respectivas premiações:
 
-1. Kindle Oasis (32 GB) + Kit Quantique
-2. Kindle Paperwhite (32 GB) + Kit Quantique
-3. Kit Quantique
+- 1° colocação: Kindle Oasis (32 GB) + Gift card da Amazon de R$500 + Kit Quantique
+- 2° colocação: Kindle Paperwhite (32 GB) + Kit Quantique
+- 3° colocação: Kit Quantique
 
 ## Datas importantes
 
