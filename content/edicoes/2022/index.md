@@ -7,12 +7,12 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-29T00:00:00Z"
-date_end: "2022-09-29T00:00:00Z"
+date: "2022-10-03T00:00:00Z"
+date_end: "2022-10-03T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-09-29T00:00:00Z"
+publishDate: "2022-10-04T00:00:00Z"
 
 authors: []
 tags: []
@@ -49,11 +49,30 @@ Inscreva-se <a href="xxx" target="_blank">aqui</a>.
 Para dúvidas, consulte [o FAQ](#faq).
 {{% /callout %}}
 
-# Quantique
+Em sua quarta edição, o DSC @ ITA 2022 contará com a parceria da empresa de gestão de investimentos [Quantique](http://quantm3.com/) para proposta do desafio e apoio do [ITAEx](https://itaex.com.br/).
+## Quantique
 
-Neste ano, o DSC será oferecido pelo fundo de investimento [Quantique](http://quantm3.com/). Quantique é ...
+A Quantique é uma nova empresa global de gestão de investimentos focada em estratégias quantitativas com sede em São Paulo. A equipe possui ampla experiência no mercado brasileiro e internacional, tendo trabalhado por anos em algumas das organizações mais bem-sucedidas do setor financeiro e na academia. A empresa utiliza algoritmos sofisticados e métodos matemáticos para analisar dados globais, prever preços em diferentes mercados e construir portfólios. Saiba mais em [QuantM3.com](http://quantm3.com/).
 
-# Datas importantes
+## Desafio
+
+Os competidores devem ser alunos matriculados em algum curso de graduação ou pós-graduação stricto-sensu em instituições públicas ou privadas de ensino no Brasil. Cada equipe deve ser composta por até 3 membros.
+
+Como tradicionalmente, o desafio será dividido em Fase 1 e Fase 2.
+
+A Fase 1 será constituída por um problema de predição a ser divulgado na abertura do evento. Neste fase eliminatória, apenas 5 equipes serão classificadas.
+
+Já na Fase 2, um novo desafio será proposto e as equipes classificadas deverão apresentar, dia 25/11, uma prova de conceito e seus resultados preliminares.
+
+## Premiação
+
+Os três primeiros colocados da Fase 2 receberão as seguintes premiações:
+
+1. Kindle Oasis (32 GB) + Kit Quantique
+2. Kindle Paperwhite (32 GB) + Kit Quantique
+3. Kit Quantique
+
+## Datas importantes
 
 - 30/09 à 14/10  -- Período de Inscrição
 - 14/10 às 16:00 -- Início da Fase 1 com abertura oficial via Google Meet
@@ -64,28 +83,29 @@ Neste ano, o DSC será oferecido pelo fundo de investimento [Quantique](http://q
 
 Horários em UTC-3 (horário de Brasília).
 
-# Fase 1
+## Inscrição
 
-# Inscrição
+Preencha o [formulário de inscrição](https://forms.gle/ywPk2JZvamFjUaNy8) e aguarde a validação da coordenação do evento.
 
-Preencha o [formulário](xxx) e aguarde a validação da coordenação do evento.
+Atente-se ao [regulamento](https://docs.google.com/document/d/e/2PACX-1vQ5eSK-CTD4sAfXq_kY3xBAz-AbfMQktj6x9BziXAUjg6odmRXFpm0AO_xMnFRnjRtWbglKMQOOAjq8/pub).
 
-Atente-se ao [regulamento](xxx).
+## FAQ
 
-# FAQ
+1. Até quando posso me inscrever?<br>Você pode se inscrever ou alterar sua inscrição até o dia 14/10. Para alteração, utilize o link indicado no email de confirmação de inscrição.
+2. Quais são as regras do evento?<br>Verifique o [regulamento](https://docs.google.com/document/d/e/2PACX-1vQ5eSK-CTD4sAfXq_kY3xBAz-AbfMQktj6x9BziXAUjg6odmRXFpm0AO_xMnFRnjRtWbglKMQOOAjq8/pub).
+3. Como faço para encontrar outros inscritos a fim de montar uma equipe?<br>Utilize nossas redes sociais para se apresentar e conhecer outros competidores. Em nosso canal [drone-comp no Discord](https://discord.com/channels/824255192668569681/824255193143050251), haverá um canal exclusivo para este fim.
 
-1. Até quando posso me inscrever?<br>Você pode se inscrever até o dia 12/10.
-
-# Apoio
+## Apoio
 
 Conheça nossos apoiadores:
 
 - [Quantique](http://quantm3.com/)
 - [ITAEx](https://itaex.com.br/)
 
-# Social
+## Social
 
 Siga-nos e também acompanhe novidades em:
 
 - [Facebook](https://www.facebook.com/dsc.at.ita)
 - [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
+- [Canal do DroneComp no Discord](https://discord.com/channels/824255192668569681/824255193143050251)
