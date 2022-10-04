@@ -45,7 +45,7 @@ projects:
 ---
 
 {{% callout warning %}}
-Inscreva-se <a href="xxx" target="_blank">aqui</a>.
+Inscreva-se <a href="https://forms.gle/ywPk2JZvamFjUaNy8" target="_blank">aqui</a>.
 Para dúvidas, consulte [o FAQ](#faq).
 {{% /callout %}}
 
