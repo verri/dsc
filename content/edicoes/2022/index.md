@@ -45,7 +45,7 @@ projects:
 ---
 
 {{% callout warning %}}
-Inscreva-se <a href="xxx" target="_blank">aqui</a>.
+Inscreva-se <a href="https://forms.gle/ywPk2JZvamFjUaNy8" target="_blank">aqui</a>.
 Para dúvidas, consulte [o FAQ](#faq).
 {{% /callout %}}
 
@@ -60,17 +60,17 @@ Os competidores devem ser alunos matriculados em algum curso de graduação ou p
 
 Como tradicionalmente, o desafio será dividido em Fase 1 e Fase 2.
 
-A Fase 1 será constituída por um problema de predição a ser divulgado na abertura do evento. Neste fase eliminatória, apenas 5 equipes serão classificadas.
+A Fase 1 será constituída por um problema de predição a ser divulgado na abertura do evento. Nesta fase eliminatória, apenas 5 equipes serão classificadas.
 
 Já na Fase 2, um novo desafio será proposto e as equipes classificadas deverão apresentar, dia 25/11, uma prova de conceito e seus resultados preliminares.
 
 ## Premiação
 
-Os três primeiros colocados da Fase 2 receberão as seguintes premiações:
+No final da Fase 2, cada membro dos primeiros três times receberão as respectivas premiações:
 
-1. Kindle Oasis (32 GB) + Kit Quantique
-2. Kindle Paperwhite (32 GB) + Kit Quantique
-3. Kit Quantique
+- 1° colocação: Kindle Oasis (32 GB) + Gift card da Amazon de R$500 + Kit Quantique
+- 2° colocação: Kindle Paperwhite (32 GB) + Kit Quantique
+- 3° colocação: Kit Quantique
 
 ## Datas importantes
 
@@ -93,7 +93,7 @@ Atente-se ao [regulamento](https://docs.google.com/document/d/e/2PACX-1vQ5eSK-CT
 
 1. Até quando posso me inscrever?<br>Você pode se inscrever ou alterar sua inscrição até o dia 14/10. Para alteração, utilize o link indicado no email de confirmação de inscrição.
 2. Quais são as regras do evento?<br>Verifique o [regulamento](https://docs.google.com/document/d/e/2PACX-1vQ5eSK-CTD4sAfXq_kY3xBAz-AbfMQktj6x9BziXAUjg6odmRXFpm0AO_xMnFRnjRtWbglKMQOOAjq8/pub).
-3. Como faço para encontrar outros inscritos a fim de montar uma equipe?<br>Utilize nossas redes sociais para se apresentar e conhecer outros competidores. Em nosso canal [drone-comp no Discord](https://discord.com/channels/824255192668569681/824255193143050251), haverá um canal exclusivo para este fim.
+3. Como faço para encontrar outros inscritos a fim de montar uma equipe?<br>Utilize nossas redes sociais para se apresentar e conhecer outros competidores. Em nosso canal [drone-comp no Discord](https://discord.com/channels/824255192668569681/832215183454896158), haverá um canal exclusivo para este fim.
 
 ## Apoio
 
@@ -108,4 +108,4 @@ Siga-nos e também acompanhe novidades em:
 
 - [Facebook](https://www.facebook.com/dsc.at.ita)
 - [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
-- [Canal do DroneComp no Discord](https://discord.com/channels/824255192668569681/824255193143050251)
+- [Canal do DroneComp no Discord](https://discord.com/channels/824255192668569681/832215183454896158)
