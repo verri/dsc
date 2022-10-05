@@ -56,7 +56,7 @@ A Quantique é uma nova empresa global de gestão de investimentos focada em est
 
 ## Desafio
 
-Os competidores devem ser alunos matriculados em algum curso de graduação ou pós-graduação stricto-sensu em instituições públicas ou privadas de ensino no Brasil. Cada equipe deve ser composta por até 3 membros.
+Os competidores devem ser alunos matriculados em algum curso de graduação ou pós-graduação em instituições públicas ou privadas de ensino no Brasil. Cada equipe deve ser composta por até 3 membros.
 
 Como tradicionalmente, o desafio será dividido em Fase 1 e Fase 2.
 
