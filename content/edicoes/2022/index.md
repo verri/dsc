@@ -93,7 +93,7 @@ Atente-se ao [regulamento](https://docs.google.com/document/d/e/2PACX-1vQ5eSK-CT
 
 1. Até quando posso me inscrever?<br>Você pode se inscrever ou alterar sua inscrição até o dia 14/10. Para alteração, utilize o link indicado no email de confirmação de inscrição.
 2. Quais são as regras do evento?<br>Verifique o [regulamento](https://docs.google.com/document/d/e/2PACX-1vQ5eSK-CTD4sAfXq_kY3xBAz-AbfMQktj6x9BziXAUjg6odmRXFpm0AO_xMnFRnjRtWbglKMQOOAjq8/pub).
-3. Como faço para encontrar outros inscritos a fim de montar uma equipe?<br>Utilize nossas redes sociais para se apresentar e conhecer outros competidores. Em nosso canal [drone-comp no Discord](https://discord.com/channels/824255192668569681/832215183454896158), haverá um canal exclusivo para este fim.
+3. Como faço para encontrar outros inscritos a fim de montar uma equipe?<br>Utilize nossas redes sociais para se apresentar e conhecer outros competidores. Em nosso canal [drone-comp no Discord](https://discord.gg/kTpTdKzFzn), haverá um canal exclusivo para este fim.
 
 ## Apoio
 
@@ -108,4 +108,4 @@ Siga-nos e também acompanhe novidades em:
 
 - [Facebook](https://www.facebook.com/dsc.at.ita)
 - [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
-- [Canal do DroneComp no Discord](https://discord.com/channels/824255192668569681/832215183454896158)
+- [Canal do DroneComp no Discord](https://discord.gg/kTpTdKzFzn)
