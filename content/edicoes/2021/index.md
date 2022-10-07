@@ -65,8 +65,8 @@ Horários em UTC-3 (horário de Brasília).
 
 Dados:
 
-- [Treinamento](http://www.comp.ita.br/~verri/dsc/edicoes/2021/public-train.csv)
-- [Teste](http://www.comp.ita.br/~verri/dsc/edicoes/2021/public-test.csv)
+- [Treinamento](https://drive.google.com/file/d/1W3TSGRYWu8PtbE3kppCt06gjhyNpRuYI/view?usp=sharing)
+- [Teste](https://drive.google.com/file/d/1lMPfuPuVRJGhJy8VnVnvl6VdDmQL6qoL/view?usp=sharing)
 
 # Aquecimento
 
