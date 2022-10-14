@@ -7,8 +7,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-13T00:00:00Z"
-date_end: "2022-10-13T00:00:00Z"
+date: "2022-10-14T00:00:00Z"
+date_end: "2022-10-14T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -111,6 +111,7 @@ Conheça nossos apoiadores:
 
 Siga-nos e também acompanhe novidades em:
 
+- [YouTube](https://youtu.be/VxkN9c3SaQM)
 - [Facebook](https://www.facebook.com/dsc.at.ita)
 - [LinkedIn](https://www.linkedin.com/company/ita-data-science-challenge)
 - [Canal do DroneComp no Discord](https://discord.gg/kTpTdKzFzn)
