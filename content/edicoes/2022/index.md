@@ -7,8 +7,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-03T00:00:00Z"
-date_end: "2022-10-03T00:00:00Z"
+date: "2022-10-13T00:00:00Z"
+date_end: "2022-10-13T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -91,60 +91,7 @@ Atente-se ao [regulamento](https://docs.google.com/document/d/e/2PACX-1vQ5eSK-CT
 
 ## Fase 1
 
-A primeira etapa basicamente compreende a predição de $k = 20$ pregões futuros dos ativos que compõem o índice SP500. O SP500 é um índice formado por 500 grandes empresas listadas em bolsas americanas composto por, curiosamente, 503 ativos. A listagem dos ativos pode ser encontrada, por exemplo, no [Wikipedia: SP500](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
-
-Para um dado ativo $i$, considere seu log-retorno de $k$ posições atrás correspondente ao dia de pregão $t$ como
-
-$$r_{i,t} = \ln \frac{p_{t}}{p_{t-k}}\text{,}$$
-
-onde $p_j$ é seu preço de fechamento no dia de pregão $j$.
-
-Cada time terá até 21/10 para submeter o log-retorno dos dias **24/10 à 18/11**, representado aqui por $t=[1,20]$. Ou seja, deverão ser reportados os log-retornos dos dias **[24/10, 18/11]** relativos, respectivamente, aos dias anteriores **[26/09, 21/10]**.
-
-Não há restrições para a solução, apenas é exigido que as bases de dados utilizadas sejam públicas. Veja as fontes sugeridas ao final deste documento. Adicionalmente, as 5 melhores equipes deverão também submeter o modelo e dados de treinamento utilizados nesta primeira fase.
-
-O ranqueamento dos times será feito com base nos erros
-
-$$e_{i,t} = r_{i,t} - \hat{r}_{i,t}$$
-
-entre o retorno previsto $\hat{r}_{i,t}$ e realizado $r_{i,t}$ de um ativo $i$ no pregão $t$; a variância da amostra
-
-$$s^2_i = \frac{1}{k-1} \sum_{t=1}^{k} (e_{i,t} - \overline{e}_{i})^2$$
-
-dos erros, onde $\overline{e}_{i}$ é a média destes erros; e o erro quadrático médio
-
-$$\text{EQM}_i = \frac{1}{k} \sum_{t=1}^{k} ( e_{i,t} )^2$$
-
-entre o retorno previsto $\hat{r}_{i,t}$ e realizado ${r}_{i,t}$ de cada ativo $i$.
-
-Os times serão ranqueados em ordem crescente de acordo com
-
-$$\text{Score} = \sum_{i=1}^{503} \sqrt{EQM_i + s_i^2}\text{.}$$
-
-A lista final de colocados serão divulgados no dia 18/11 após o fechamento do pregão. As 5 melhores equipes seguem para Etapa 2. Divulgaremos semanalmente no site, para os primeiros $k$ dias realizados, os resultados parciais dos times que enviarem as previsões.
-
-### Formato
-
-Cada time deverá submeter um arquivo .csv de acordo com o modelo '[predicao.csv](https://drive.google.com/file/d/1wPkBfoBp2HHlXLwIb0D2k_p2xLMk0Uf8/view?usp=sharing)' disponível na pasta compartilhada '[Submissão](https://drive.google.com/drive/folders/1bQVj1sx4_yCRPkXlh1c4YuH20Y0l9nf8?usp=sharing)'.
-
-O formato exige:
-
-- colunas separadas por ',' (vírgulas)
-- valores com decimais utilizando '.' (ponto)
-- Primeira coluna com nome 'Dia'
-- Demais colunas são os tickers dos ativos da SP500 em ordem crescente
-- Cada linha deve conter o **retorno** referente a um dia previsto
-
-Para garantir que o formato está correto, foi criado um [script simples em python](https://drive.google.com/file/d/1bQmBaW2tCsraRrokUYCB-reJOGv4ilNQ/view?usp=sharing) para testar seu arquivo antes da submissão.
-
-```bash
-# teste antes de submeter
-python check_submission.py arquivo.csv
-```
-
-As submissões serão realizadas via Google Forms. Será fornecido um link via email, para as equipes submeterem suas previsões. Apenas a última submissão será considerada.
-
-**Importante**: as submissões devem ser feitas com o mesmo email utilizado na inscrição, ou não serão válidas.
+Para informações sobre a fase 1, veja o arquivo compartilhado [Fase1.pdf](https://drive.google.com/file/d/1bRb8tVR6zcJWAPbPuYYXatjXuKykg0Ao/view?usp=sharing).
 
 ## FAQ
 
