@@ -1,5 +1,5 @@
 ---
-title: Competidores do DSC 2022
+title: Inscrições encerrada!
 date: 2022-10-20
 ---
 
