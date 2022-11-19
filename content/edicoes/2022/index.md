@@ -79,7 +79,7 @@ No final da Fase 2, cada membro dos primeiros três times receberão as respecti
 - 21/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução da equipe
 - 18/11 -- Divulgação da pontuação final e equipes classificadas para a Fase 2
 - 18/11 -- Início da Fase 2 e divulgação do novo desafio
-- 25/11 às 9:00 -- Encerramento via Google Meet e transmitido pelo Facebook, com apresentações das equipes
+- <s style="color: red">25/11</s> 02/12 às 9:00 -- Encerramento via Google Meet e transmitido pelo Facebook, com apresentações das equipes
 
 Horários em UTC-3 (horário de Brasília).
 
