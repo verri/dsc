@@ -80,8 +80,8 @@ No final da Fase 2, cada membro dos primeiros três times receberão as respecti
 
 ## Datas importantes
 
-- 21/08 a  03/09 -- Período de Inscrição
-- 04/09 às 16:00 -- Início da Fase 1 com abertura oficial via Google Meet
+- 21/08 a  ~~03/09~~ 10/09 (prorrogado) -- Período de Inscrição
+- ~~04/09~~ 11/09 às 16:00 (prorrogado) -- Início da Fase 1 com abertura oficial via Google Meet
 - 01/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
 - 02/10 -- Divulgação da pontuação final e equipes Finalistas
 - 02/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
@@ -99,7 +99,7 @@ Atente-se ao [regulamento](https://docs.google.com/document/d/1iQsqjvdTlzuK-Q1fD
 
 ## Fase 1
 
-As informações da Fase 1 estarão disponíveis a partir do dia 04/09.
+As informações da Fase 1 estarão disponíveis a partir do dia ~~04/09~~ 11/09.
 
 ## Fase 2
 
