@@ -1,6 +1,6 @@
 ---
 title: Prorrogação das inscrições do DSC 2023
-date: 2023-04-09
+date: 2023-09-04
 ---
 
 ## Prorrogação do DSC 2023!

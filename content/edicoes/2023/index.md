@@ -81,7 +81,7 @@ No final da Fase 2, cada membro dos primeiros três times receberão as respecti
 ## Datas importantes
 
 - 21/08 a  ~~03/09~~ 10/09 (prorrogado) -- Período de Inscrição
-- ~~04/09~~ 11/09 às 16:00 (prorrogado) -- Início da Fase 1 com abertura oficial via Google Meet
+- ~~04/09~~ 11/09 às 17:00 (prorrogado) -- Início da Fase 1 com abertura oficial
 - 01/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
 - 02/10 -- Divulgação da pontuação final e equipes Finalistas
 - 02/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
@@ -96,6 +96,10 @@ Horários em UTC-3 (horário de Brasília).
 Preencha o [formulário de inscrição](https://forms.gle/X3NnEDZKBYSefAMq6) e aguarde a validação da coordenação do evento.
 
 Atente-se ao [regulamento](https://docs.google.com/document/d/1iQsqjvdTlzuK-Q1fDkHAYogbx5H-y0C2hoF9pjJcTSk/edit?usp=sharing).
+
+## Abertura
+
+Veja a [notícia de abertura](/noticias/23-09-10-abertura-dsc2023/)
 
 ## Fase 1
 
