@@ -99,7 +99,7 @@ Atente-se ao [regulamento](https://docs.google.com/document/d/1iQsqjvdTlzuK-Q1fD
 
 ## Abertura
 
-Veja a [notícia de abertura](/noticias/23-09-10-abertura-dsc2023/)
+Veja a [notícia de abertura](/noticias/23-09-10-abertura-dsc2023/).
 
 ## Fase 1
 
