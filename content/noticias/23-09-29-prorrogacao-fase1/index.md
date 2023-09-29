@@ -1,5 +1,5 @@
 ---
-title: Desafio do DSC 2023
+title: Prorrogação da Fase 1 do DSC 2023
 date: 2023-09-29
 ---
 
