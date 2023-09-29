@@ -82,11 +82,11 @@ No final da Fase 2, cada membro dos primeiros três times receberão as respecti
 
 - 21/08 a  ~~03/09~~ 10/09 (prorrogado) -- Período de Inscrição
 - ~~04/09~~ 11/09 às 17:00 (prorrogado) -- Início da Fase 1 com abertura oficial
-- 01/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
-- 02/10 -- Divulgação da pontuação final e equipes Finalistas
-- 02/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
-- 13/10 -- Envio dos vídeos de apresentação das soluções
-- 13/10 -- Anúncio das equipes vencedoras
+- ~~01/10~~ 08/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
+- ~~02/10~~ 09/10 -- Divulgação da pontuação final e equipes Finalistas
+- ~~02/10~~ 09/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
+- ~~13/10~~ 20/10 -- Envio dos vídeos de apresentação das soluções
+- ~~13/10~~ 20/10 -- Anúncio das equipes vencedoras
 - 06/11 a 10/11 -- Apresentação presencial no Seminário de Performance - ICEA
 
 Horários em UTC-3 (horário de Brasília).
