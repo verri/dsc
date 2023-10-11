@@ -85,8 +85,9 @@ No final da Fase 2, cada membro dos primeiros três times receberão as respecti
 - ~~01/10~~ 08/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
 - ~~02/10~~ 09/10 -- Divulgação da pontuação final e equipes Finalistas
 - ~~02/10~~ 09/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
-- ~~13/10~~ 20/10 -- Envio dos vídeos de apresentação das soluções
-- ~~13/10~~ 20/10 -- Anúncio das equipes vencedoras
+- ~~13/10 20/10 -- Envio dos vídeos de apresentação das soluções~~
+- ~~13/10 20/10 -- Anúncio das equipes vencedoras~~
+- 24/10 13:30 às 17:00 -- Apresentações da Fase 2 e anúncio das equipes vencedoras
 - 06/11 a 10/11 -- Apresentação presencial no Seminário de Performance - ICEA
 
 Horários em UTC-3 (horário de Brasília).
@@ -122,7 +123,16 @@ Qualquer dúvida, entre em contato através do Discord oficial do evento, dispon
 
 Como dito na abertura, a Fase 1 é quantitativa enquanto a Fase 2 é qualitativa compreendendo apenas a criação da apresentação da solução construída.
 
-Informações em breve.
+As apresentações serão ao vivo, pela Internet. Não é preciso enviar o vídeo da apresentação.
+Após a apresentação, haverá uma fase de arguição pelos membros da comissão julgadora. Consideramos essencial a arguição para compreender melhor o trabalho.
+
+A ordem de apresentação será sorteada no dia do evento e é necessária a presença de ao menos 1 membro do time no dia da apresentação.
+A duração máxima da apresentação é de 15min. O competidor será interrompido após este período. A arguição será de aproximadamente 15min (o tempo de arguição pode variar).
+
+A avaliação na Fase 2 irá contemplar diversos tópicos, inclusive:
+- Criatividade e corretude da modelagem
+- Didatismo e organização do projeto e apresentação
+- Resultados preliminares obtidos.
 
 ## FAQ
 
