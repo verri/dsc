@@ -18,6 +18,7 @@ design:
 
 Coordenação:
 
+- [Prof. Ana Lorena](mailto:aclorena@ita.br)
 - [Prof. Elton Sbruzzi](mailto:elton@ita.br)
 - [Prof. Filipe Verri](mailto:verri@ita.br)
 - [Prof. Vitor Curtis](mailto:curtis@ita.br)
