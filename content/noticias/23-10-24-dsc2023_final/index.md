@@ -17,7 +17,7 @@ Ao final das apresentações e arguições, tivemos uma seção privada para esc
   - Pedro Paulo Portella Teles
   - Marcel Zanetti de Carvalho
 - 🥈 2º lugar - Team Maia
-  - Bruno Vilela
+  - Bruno Vilela Quirino
 - 🥉 3º lugar - HSO
   - Lucas Silva Lima
   - Samara Ribeiro Silva
