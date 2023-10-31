@@ -80,14 +80,14 @@ No final da Fase 2, cada membro dos primeiros três times receberão as respecti
 
 ## Datas importantes
 
-- 21/08 a  03/09 -- Período de Inscrição
-- 04/09 às 16:00 -- Início da Fase 1 com abertura oficial via Google Meet
-- 25/10 -- Disponibilização dos dados de validação
-- 01/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
-- 02/10 -- Divulgação da pontuação final e equipes Finalistas
-- 02/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
-- 13/10 -- Envio dos vídeos de apresentação das soluções
-- 13/10 -- Anúncio das equipes vencedoras
+- 21/08 a  ~~03/09~~ 10/09 (prorrogado) -- Período de Inscrição
+- ~~04/09~~ 11/09 às 17:00 (prorrogado) -- Início da Fase 1 com abertura oficial
+- ~~01/10~~ 08/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
+- ~~02/10~~ 09/10 -- Divulgação da pontuação final e equipes Finalistas
+- ~~02/10~~ 09/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
+- ~~13/10 20/10 -- Envio dos vídeos de apresentação das soluções~~
+- ~~13/10 20/10 -- Anúncio das equipes vencedoras~~
+- 24/10 13:30 às 17:00 -- Apresentações da Fase 2 e anúncio das equipes vencedoras
 - 06/11 a 10/11 -- Apresentação presencial no Seminário de Performance - ICEA
 
 Horários em UTC-3 (horário de Brasília).
@@ -98,13 +98,41 @@ Preencha o [formulário de inscrição](https://forms.gle/X3NnEDZKBYSefAMq6) e a
 
 Atente-se ao [regulamento](https://docs.google.com/document/d/1iQsqjvdTlzuK-Q1fDkHAYogbx5H-y0C2hoF9pjJcTSk/edit?usp=sharing).
 
+## Abertura
+
+Para rever a abertura, acesse o [YouTube](https://www.youtube.com/watch?v=cIlBV63M2vs).
+
 ## Fase 1
 
-As informações da Fase 1 estarão disponíveis a partir do dia 04/09.
+Aviso: as inscrições se mantem abertas até o final da Fase 1.
+
+No final de abertura, foram apresentados o desafio a as bases de dados.
+
+Para informações sobre o desafio, acesse os links abaixo:
+
+- [Proposta do Desafio](https://docs.google.com/document/d/1JJUFfQY9uhRk-bDYN7UqLeS4v3hjBhY8RZ_ezOaUUCA/edit?usp=sharing): descrição do desafio; apresentação das bases de dados; e organização das fases do evento.
+
+- [API](http://montreal.icea.decea.mil.br:5002/api/v1/docs): documentação da API criada exclusivamente para disponibilizar os dados de treino. Para consumir os dados da API, vocês deverão utilizar o seguinte token: a779d04f85c4bf6cfa586d30aaec57c44e9b7173. 
+OBS: O link da API leva para a página de documentação, onde é possível realizar alguns testes de requisição e entender os endpoints e estruturas URL. Recomendamos fortemente que a aquisição dos dados seja feita por requisição via URL. A interface WEB da documentação é indicada apenas para testes.
+
+- [Kaggle](https://www.kaggle.com/t/40616eb29224370f652cbd9195c7bf34): As equipes devem criar seus times no Kaggle e entrar no link da competição na plataforma. Através do Kaggle, os competidores poderão fazer submissões referentes ao conjunto de testes e conferir seu ranking durante toda a competição. Entretanto, apenas a submissão final, com a base de dados de avaliação (a ser divulgada), será considerada para avaliação final.
+
+Qualquer dúvida, entre em contato através do Discord oficial do evento, disponível nesse [link](https://comp.ita.br/dsc/edicoes/2023/).
 
 ## Fase 2
 
-Informações em breve.
+Como dito na abertura, a Fase 1 é quantitativa enquanto a Fase 2 é qualitativa compreendendo apenas a criação da apresentação da solução construída.
+
+As apresentações serão ao vivo, pela Internet. Não é preciso enviar o vídeo da apresentação.
+Após a apresentação, haverá uma fase de arguição pelos membros da comissão julgadora. Consideramos essencial a arguição para compreender melhor o trabalho.
+
+A ordem de apresentação será sorteada no dia do evento e é necessária a presença de ao menos 1 membro do time no dia da apresentação.
+A duração máxima da apresentação é de 15min. O competidor será interrompido após este período. A arguição será de aproximadamente 15min (o tempo de arguição pode variar).
+
+A avaliação na Fase 2 irá contemplar diversos tópicos, inclusive:
+- Criatividade e corretude da modelagem
+- Didatismo e organização do projeto e apresentação
+- Resultados preliminares obtidos.
 
 ## FAQ
 

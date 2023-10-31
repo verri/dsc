@@ -16,6 +16,11 @@ design:
   columns: '1'
 ---
 
-Se quiser saber mais, entre com contato com o [Prof. Filipe Verri](mailto:verri@ita.br).
+Coordenação:
 
-Acesse também nossas redes sociais:
+- [Prof. Ana Lorena](mailto:aclorena@ita.br)
+- [Prof. Elton Sbruzzi](mailto:elton@ita.br)
+- [Prof. Filipe Verri](mailto:verri@ita.br)
+- [Prof. Vitor Curtis](mailto:curtis@ita.br)
+
+Se quiser saber mais, acesse também nossas redes sociais:
