@@ -48,6 +48,9 @@ projects:
 Inscrições [aqui](https://forms.gle/pbZRpPgLnpVnzsxK9).
 {{% /callout %}}
 
+Após inscrito, consulte as instruções da primeira fase no
+[Kaggle](https://www.kaggle.com/competitions/data-science-challenge-at-eef-2024/).
+
 Em sua sexta edição, o DSC @ EEF 2024 contará com o apoio do Instituto de Controle do Espaço Aéreo ([ICEA](http://www.icea.decea.mil.br/)) e da [ITAEx](https://itaex.com.br/).
 
 Regulamento [aqui](https://docs.google.com/document/d/1lnlPBPfgPm_ijpWDVPI1n34w2E_sTDaEJW6imSQ6GRI/edit?usp=sharing).
@@ -117,6 +120,7 @@ Informações em breve.
 - Prof. Dr. Filipe A. N. Verri (coordenador geral)
 - Prof. Dr. Elton F. Sbruzzi
 - Prof. Dr. Vitor V. Curtis
+- Profª. Drª. Ana Carolina Lorena
 
 ## Apoio
 
