@@ -45,10 +45,12 @@ projects:
 ---
 
 {{% callout warning %}}
-Inscrições a partir de 01 de abril de 2024.
+Inscrições [aqui](https://forms.gle/pbZRpPgLnpVnzsxK9).
 {{% /callout %}}
 
 Em sua sexta edição, o DSC @ EEF 2024 contará com o apoio do Instituto de Controle do Espaço Aéreo ([ICEA](http://www.icea.decea.mil.br/)) e da [ITAEx](https://itaex.com.br/).
+
+Regulamento [aqui](https://docs.google.com/document/d/1lnlPBPfgPm_ijpWDVPI1n34w2E_sTDaEJW6imSQ6GRI/edit?usp=sharing).
 
 ## ICEA
 
@@ -76,19 +78,11 @@ Em breve.
 
 ## Datas importantes
 
-Em breve.
-
-<!--
-- 21/08 a  03/09 -- Período de Inscrição
-- 04/09 às 16:00 -- Início da Fase 1 com abertura oficial via Google Meet
-- 25/10 -- Disponibilização dos dados de validação
-- 01/10 às 23:59 -- Encerramento da Fase 1 e limite para submissão da solução das equipes
-- 02/10 -- Divulgação da pontuação final e equipes Finalistas
-- 02/10 -- Início da Fase 2 com encontro via Google Meet para instruções para equipes finalistas
-- 13/10 -- Envio dos vídeos de apresentação das soluções
-- 13/10 -- Anúncio das equipes vencedoras
-- 06/11 a 10/11 -- Apresentação presencial no Seminário de Performance - ICEA
--->
+- 19/04 -- Prazo máximo para inscrição
+- 29/04 -- Prazo máximo para submissões da Fase 1
+- 30/04 -- Início da Fase 2
+- 16 a 18/05 -- Apresentação das equipes finalistas
+- 18/05 -- Anúncio das equipes vencedoras
 
 Horários em UTC-3 (horário de Brasília).
 
@@ -102,7 +96,7 @@ Atente-se ao [regulamento](https://docs.google.com/document/d/1iQsqjvdTlzuK-Q1fD
 
 ## Fase 1
 
-As informações da Fase 1 estarão disponíveis a partir do dia 01/04.
+Acesse o desafio no [Kaggle](https://www.kaggle.com/competitions/data-science-challenge-at-eef-2024/).
 
 ## Fase 2
 
