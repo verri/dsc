@@ -81,7 +81,12 @@ resultados preliminares.
 
 ## Premiação
 
-Em breve.
+As três melhores equipes na 1ª fase seguirão para a 2ª fase.
+A premiação será distribuída da seguinte forma:
+
+- 1º lugar na 2ª fase: R$ 1.500,00 por membro da equipe
+- 2º lugar na 2ª fase: R$ 1.000,00 por membro da equipe
+- 3º lugar na 2ª fase: R$ 500,00 por membro da equipe
 
 ## Datas importantes
 
