@@ -45,7 +45,11 @@ projects:
 ---
 
 {{% callout warning %}}
-Inscrições [aqui](https://forms.gle/pbZRpPgLnpVnzsxK9).
+Inscreva-se na competição [aqui](https://forms.gle/pbZRpPgLnpVnzsxK9).
+{{% /callout %}}
+
+{{% callout warning %}}
+Participantes devem se inscrever também no EEF 2024 [aqui](https://eef.ita.br/faca-sua-inscricao-no-eef-2024/).
 {{% /callout %}}
 
 Após inscrito, consulte as instruções da primeira fase no
