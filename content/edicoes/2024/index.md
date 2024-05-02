@@ -45,7 +45,7 @@ projects:
 ---
 
 {{% callout warning %}}
-Inscreva-se na competição [aqui](https://forms.gle/pbZRpPgLnpVnzsxK9).
+Inscrições encerradas.
 {{% /callout %}}
 
 {{% callout warning %}}
@@ -112,7 +112,7 @@ Acesse o desafio no [Kaggle](https://www.kaggle.com/competitions/data-science-ch
 
 ## Fase 2
 
-Informações em breve.
+Descrição [aqui](https://drive.google.com/drive/folders/1uKasbXzW066xEIucdFCEX8BwqcMxHPU1).
 
 ## FAQ
 
